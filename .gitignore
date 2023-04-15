@@ -1,5 +1,14 @@
-accentdb_extended_combined
+.DS_Store
+.ipynb_checkpoints/
+accentdb_extended/
+accentdb_extended_combined/
+venv/
+
+example.ipynb
+dataset.npy
+dataset.txt
 preprocessed_data.csv
 finalized_model_M1.sav
 finalized_model_M2.sav
 finalized_model_M3.sav
+finalized_model_KNN.sav
