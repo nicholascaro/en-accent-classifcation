@@ -12,3 +12,5 @@ finalized_model_M1.sav
 finalized_model_M2.sav
 finalized_model_M3.sav
 finalized_model_KNN.sav
+*.npy
+*.h5
