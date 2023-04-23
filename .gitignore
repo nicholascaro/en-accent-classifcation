@@ -13,4 +13,8 @@ finalized_model_M2.sav
 finalized_model_M3.sav
 finalized_model_KNN.sav
 *.npy
+<<<<<<< HEAD
 *.h5
+=======
+eval-analysis.ipynb
+>>>>>>> 3e59594fe9bd131948dee68e7c447745b3d23adc
