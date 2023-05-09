@@ -5,14 +5,16 @@
 - Nichoals Caro
 
 ## Assignments
-1. Datset after Preprocessing 3/27 
+####  Our project consists of four Jupyter notebooks, each building upon the work done in the previous notebook, with the exception of our first notebook, ```preprocessing.ipynb``` which serves as the starting point. We have consolidated all of our work in the final notebook, ```evaluation-and-analysis.py``` which contains the complete analysis and evaluation of our project. To provide clarity and structure, we have listed each notebook along with its corresponding .py file by the assignment.
+
+1. Datset after Preprocessing 3/27: 
     
-    ```preprocessing.ipynb```
+    ```preprocessing.ipynb``` 
 
     ```preprocessing.py```
 
 
-2. ML modeling 4/6 
+2. ML modeling 4/6: 
 
     ```svm.ipynb```
 
@@ -26,7 +28,7 @@
 
     ```multiple-models.py```
 
-4. Evaluation and Analysis 4/22
+4. Evaluation and Analysis 4/22: 
 
     ```evaluation-and-analysis.ipynb```
 
